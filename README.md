@@ -10,4 +10,4 @@ The CNN network (model N) generated in these studies performed well with reasona
  Note: See file **Deep Learning CNN Model for Vehicle Accident Recognition.pdf** for further information describing the development and testing of the CNN model.
 
 
- https://mybinder.org/v2/gh/capgalea/CNN_Car_recognition.git/main?urlpath=%2Fdoc%2Ftree%2FCNN_Cars_train_predict_final2.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/capgalea/CNN_Car_recognition.git/main?urlpath=%2Fdoc%2Ftree%2FCNN_Cars_train_predict_final2.ipynb)
